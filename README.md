@@ -50,6 +50,6 @@ I’m a full-stack web developer tackling life one project at a time, bringing i
 
 ---
 
-Let's Connect! 🤝👋
+Let's Work Together! 🤝👋
 
 ![Profile views](https://views.igorkowalczyk.dev/api/badge/rhf007?style=flat)
