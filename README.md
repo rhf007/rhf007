@@ -44,9 +44,9 @@ I’m a full-stack web developer tackling life one project at a time, bringing i
 ### 📊 Stats
 
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=rhf007&layout=compact&theme=gruvbox)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahaf-H-007&layout=compact&theme=gruvbox)
 
-![Rahaf's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhf007&show_icons=true&theme=gruvbox)
+![Rahaf's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rahaf-H-007&show_icons=true&theme=gruvbox)
 
 ---
 
