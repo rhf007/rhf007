@@ -1,6 +1,6 @@
 # Rahaf Hazem
 
-**`Full-stack Developer & Movie Enthusiast`**
+**`Backend-Focused Full-stack Developer & Movie Enthusiast`**
 
 I’m a full-stack web developer tackling life one project at a time, bringing ideas to life by planning, designing, and coding them into existence. Along the way, I’m constantly learning new technologies and sharpening my skills to build better and smarter solutions. I'm open to on-site/remote full-time/part-time/internship opportunities in full-stack or backend development as that's my passion. I'm currently based in Cairo, Egypt and actively seeking both local and international roles, including those offering relocation support or sponsorship.
 
