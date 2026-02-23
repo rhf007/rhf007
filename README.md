@@ -52,4 +52,4 @@ I’m a full-stack web developer tackling life one project at a time, bringing i
 
 Let's Work Together! 🤝👋
 
-![Profile views](https://views.igorkowalczyk.dev/api/badge/rhf007?style=flat)
+![Profile views](https://views.igorkowalczyk.dev/api/badge/Rahaf-H-007?style=flat)
